@@ -8,7 +8,7 @@ import RestaurantItem, { localRestaurants, } from '../components/home/Restaurant
 import BottomTabs from '../components/home/BottomTabs'
 
 const YELP_API_KEY = 
-"Tm9D6ZJTm6vgZOtaWHOB4DIkDrYJO-b5qYEnOsXruw1K931QtM8SQeiCNjoFNh9IW1Qt1g6quvO_ye_HpKlm5kCWikXRLsyo1i646ziRreRtck-OGXQ_WivfO3ceYnYx";
+"";
 
 const Home = () => {
 
